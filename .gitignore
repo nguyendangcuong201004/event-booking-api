@@ -26,3 +26,10 @@ dist/
 
 # Go workspace file
 go.work
+
+# Local SQLite database
+api.db
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
